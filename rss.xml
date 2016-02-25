@@ -2,14 +2,28 @@
     <channel>
         <title><![CDATA[Longboard Living Cancun]]></title>
         <description><![CDATA[Longboard Living Cancun]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/longboard-living-cancun/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 04:59:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 25 Feb 2016 05:05:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/longboard-living-cancun/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ec283b3-c124-4c90-afbb-b5311a6cd8c4.png">]]></description>
+            <link>https://thegrid.ai/longboard-living-cancun/1378a278-557f-4ddc-8a4e-05257d1ac7be/index.html</link>
+            <guid isPermaLink="false">1378a278-557f-4ddc-8a4e-05257d1ac7be</guid>
+            <pubDate>Thu, 25 Feb 2016 05:05:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4dac10bc-118f-4067-a52f-120fd58185b3.png">]]></description>
+            <link>https://thegrid.ai/longboard-living-cancun/77029df5-a4f5-4626-91d5-06bdf1ce6256/index.html</link>
+            <guid isPermaLink="false">77029df5-a4f5-4626-91d5-06bdf1ce6256</guid>
+            <pubDate>Thu, 25 Feb 2016 05:05:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2872cd32-5b40-41ff-927d-c709ceb73679.png">]]></description>
-            <link>undefinede8c5a697-c4a8-4b7f-9577-8bc87f73bb95/index.html</link>
+            <link>https://thegrid.ai/longboard-living-cancun/e8c5a697-c4a8-4b7f-9577-8bc87f73bb95/index.html</link>
             <guid isPermaLink="false">e8c5a697-c4a8-4b7f-9577-8bc87f73bb95</guid>
             <pubDate>Thu, 25 Feb 2016 04:59:41 GMT</pubDate>
         </item>
