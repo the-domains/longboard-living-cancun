@@ -1,28 +1,40 @@
-name: Longboard Living Cancun
-favicon: null
-layout_spectrum: 0.17044756468385458
-typography_spectrum: 0.5762986375484616
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+  saturation: 0.1549741469789296
   brandStrength: 0.6667878087610006
   lightness: 0.2053876668214798
-  saturation: 0.15497414697892964
+  brandColors:
+    - '#02C602'
+    - '#A3D802'
+    - '#010102'
+    - '#BBB4D0'
+    - '#D71F03'
   rhythmicContrast: 0.7923274540808052
-purpose: []
+typography_spectrum: 0.5762986375484616
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Longboard Living Cancun
