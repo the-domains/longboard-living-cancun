@@ -1,4 +1,8 @@
-name: Longboard Living Cancun
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -17,24 +21,20 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6469534
+  saturation: 0
   brandStrength: 1
-  lightness: 0.5770609
+  lightness: 1
   brandColors:
     - '#02C602'
     - '#A3D802'
     - '#010102'
     - '#BBB4D0'
     - '#D71F03'
-  rhythmicContrast: 0.4157706
+  rhythmicContrast: 0
 typography_spectrum: 0.5762986375484616
+layout_spectrum: 0
 cta:
   bucket: null
   version: null
   domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-layout_spectrum: 0
+name: Longboard Living Cancun
